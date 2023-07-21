@@ -25,6 +25,6 @@ def split_pdf_pages(input_pdf_path, output_folder, names_csv):
 
 
 # Use the function
-split_pdf_pages('/Users/zaiddahir/Desktop/Test Canva/Student Name - Completion Certificate f.pdf', '/Users/zaiddahir/Desktop/Test Canva', '/Users/zaiddahir/Desktop/Test Canva/Names.csv')
+split_pdf_pages('input.pdf', 'output_folder', 'names.csv') 
 
 
